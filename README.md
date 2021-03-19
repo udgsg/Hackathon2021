@@ -1,2 +1,2 @@
-# Hackathon2021
-# University of Delaware
+# Hackathon2021 by Graduate Student Government (GSG) at
+# University of Delaware 
