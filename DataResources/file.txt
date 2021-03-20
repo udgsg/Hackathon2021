@@ -1,1 +1,17 @@
-Data 1
+% ----------------------------------------
+! POTENTIAL DATA RESOURCES (If necessary): 
+% ----------------------------------------
+
+https://finance.yahoo.com/ 
+Data resources for covid 
+A collection of city related data from NYC* https://opendata.cityofnewyork.us/
+Stanford Large Network Dataset** https://snap.stanford.edu/data/ 
+Aminer Social Network Analysis datasets https://www.aminer.org/data-sna 
+Smaller Specific Network Instances
+Informal communication within a sawmill on strike http://vlado.fmf.uni-lj.si/pub/networks/data/esna/strike.htm 
+Friendship and unionization in a hi-tech firm http://vlado.fmf.uni-lj.si/pub/networks/data/esna/hiTech.htm
+Student government discussion network http://vlado.fmf.uni-lj.si/pub/networks/data/esna/student.htm 
+
+*Hackers can be creative using some of the datasets
+**Has all sizes and kinds of large networks. Social networks in general would be helpful.
+
