@@ -35,11 +35,6 @@ Delaware are mandatory reporters for discrimination acts according to
 
 
 If a participant engages in harassing behavior, the organizers may take
-action including reporting to official University channels. The
-organizers identified an ombudsperson Andrea Trungold (andreat@udel.edu)
-for confidential reporting since she is
-not a mandatory Title IX reporter for confidential reporting. The
-ombudsperson can be reached at: [UDCovidhack.ombudsperson@gmail.com](mailto:UDCovidhack.ombudsperson@gmail.com) 
+action including reporting to official University channels. 
 
-This is a UD event and it complies with the University policies
-including https://www.google.com/url?q=https://cpb-us-w2.wpmucdn.com/sites.udel.edu/dist/3/3423/files/2017/08/2017-08-11-Non-DiscrimPolicyFINALupdated120170829-1hadt7n.pdf  https://sites.udel.edu/sexualmisconduct/policies/
+This is a UD GSG event and it complies with the University policies. 
