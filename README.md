@@ -36,7 +36,7 @@ Virtual (via zoom and slack)
 
 ## Who is participating:
 
-All graduate students and seniors at UD. 
+All graduate students and seniors in undergrad at UD. 
 
 ## Team Formation:
 
