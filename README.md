@@ -25,6 +25,15 @@
 
 A Hackathon is an event where people tackle specific challenges in small groups to produce rapid results that outline issues and promising approaches to solutions. With easier access to internet, misinformation has become a challenging issue with serious repercussions in our society impacting health (Covid reality check, mask/vaccine effectiveness etc), finance (bubble detection, inflation, effect of pandemic on stockmarket, market behavior away from actual economy), media (widespread opinion without facts check via uncountable internet resources). Through this virtual Hackathon, we will focus on various problems associated with "Misinformation" that we as a society are facing nowadays and conclude on the findings in various fields based on data and analysis.   
 
+
+## When : 
+
+April 23rd-April 25th, 2021
+
+## Where: 
+
+Virtual (via zoom and slack)
+
 ## Who is participating:
 
 All graduate students and seniors at UD. 
@@ -35,7 +44,7 @@ Each team must have 1-4 members with atleast one graduate student.
 
 ## Motivation:
 
-Cash Prize (1st position : $500, 2nd position : $300, 3rd position : $200), Certificates for all, Networking opportunities, Mentorship opportunity. 
+Cash Prize (1st position : $500, 2nd position : $300, 3rd position : $200), Certificates for all, Networking opportunities, Mentorship opportunities. 
 
 ## Tracks: 
 1. Misinformation in health : Is Covid real ? Does mask / Vaccine work for covid or not etc.
@@ -143,8 +152,13 @@ Dixit Bhatta (Communication Committee)
 
 ![](https://images.squarespace-cdn.com/content/5cf6c4ed5171fc0001b43190/1559677094095-SX3U72EDS7F7DIV6C9QY/CompassRed+primary.png?format=1500w&content-type=image%2Fpng)
 
-# The Register link below is under construction. Please come back later to regiter for the event!
+### The Register link below is under construction. Please come back later to register for the event!
 
-[Register](https://forms.gle/V8avSVxczyP2M8aL8) for the event and join our [slack](https://join.slack.com/t/gsghackathon/shared_invite/zt-n4xy341u-WeZ_e0obRUoHbdUQqBya7w)
+[Register](https://forms.gle/V8avSVxczyP2M8aL8) for the event.
+
+Join our slack channels :
+1. [general](https://join.slack.com/t/gsghackathon/shared_invite/zt-n4xy341u-WeZ_e0obRUoHbdUQqBya7w), 
+
+2. [ideas](https://gsghackathon.slack.com/x-p1810048800677-1825874213201-1879079643046/archives/C01S21ERZMH/p1616427651001600) 
 
 **more info** [here](https://drive.google.com/file/d/1AHKEPpekK5ur3YyO5uODUI_Z4LmhVnVC/view?usp=sharing)
