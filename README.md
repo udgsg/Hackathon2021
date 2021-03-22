@@ -101,6 +101,6 @@ The hackathon begins with "pitches": if you have an idea this is your chance to 
 Though you do not have to, you are all encouraged to pitch an idea!! Even if you have not thought about it till the day before!
 
 # TODO
-[Register](https://forms.gle/V8avSVxczyP2M8aL8) for the event and join our [slack](https://join.slack.com/t/udcovidhackathon/shared_invite/zt-dwgjrohv-b3MCkdDFk5fokbjdzMFuSA)
+[Register](https://forms.gle/V8avSVxczyP2M8aL8) for the event and join our [slack](https://join.slack.com/t/gsghackathon/shared_invite/zt-n4xy341u-WeZ_e0obRUoHbdUQqBya7w)
 
 **more info** [here](https://drive.google.com/file/d/1AHKEPpekK5ur3YyO5uODUI_Z4LmhVnVC/view?usp=sharing)
