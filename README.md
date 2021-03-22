@@ -41,7 +41,7 @@ You do not need any specific technical expertise to participate: Although techni
 
 # Schedule:
 
-## Friday: 5:00 - 5:30 PM : Meet and Greet
+## April 23, Friday: 5:00 - 5:30 PM : Meet and Greet!
 
 Meet the organizers and the other participants on Friday 5:00-5:30 PM. This meeting is optional, but it is a great opportunity to ask questions about how hackathons proceed, about the four tracks, and about any project ideas you might have. 
 
