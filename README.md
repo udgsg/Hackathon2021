@@ -1,7 +1,7 @@
 # Hackathon2021 by Graduate Student Government (GSG) at
 # University of Delaware
 
-# Please check "Wiki" tab above for details of this event ! 
+# Please check [Wiki](https://github.com/udgsg/Hackathon2021/wiki) tab above for more details of this event ! 
 
 ### 1:  connect UD community from diverse background ! 
 
@@ -24,6 +24,18 @@
 ## HACKATHON HOWTO:
 
 A Hackathon is an event where people tackle specific challenges in small groups to produce rapid results that outline issues and promising approaches to solutions. With easier access to internet, misinformation has become a challenging issue with serious repercussions in our society impacting health (Covid reality check, mask/vaccine effectiveness etc), finance (bubble detection, inflation, effect of pandemic on stockmarket, market behavior away from actual economy), media (widespread opinion without facts check via uncountable internet resources). Through this virtual Hackathon, we will focus on various problems associated with "Misinformation" that we as a society are facing nowadays and conclude on the findings in various fields based on data and analysis.   
+
+## Who is participating:
+
+All graduate students and seniors at UD. 
+
+## Team Formation:
+
+Each team must have 1-4 members with atleast one graduate student.
+
+## Motivation:
+
+Cash Prize (1st position : $500, 2nd position : $300, 3rd position : $200), Certificates for all, Networking opportunities, Mentorship opportunity. 
 
 ## Tracks: 
 1. Misinformation in health : Is Covid real ? Does mask / Vaccine work for covid or not etc.
@@ -99,7 +111,40 @@ The hackathon begins with "pitches": if you have an idea this is your chance to 
 **TEAM**: after the pitches, every pitcher will assemble their team. People should be allowed to work on whatever they want, though you may call out for someone with a specific skill at the end of the team assembly to see if someone wants to switch team or just lend an occasional hand when needed while working on another project.
 Though you do not have to, you are all encouraged to pitch an idea!! Even if you have not thought about it till the day before!
 
-# TODO
+# Organizers:
+
+
+Mary Kramer (Chair, Social Committee)
+
+Kathleen Lyons (Social Committee)
+
+Anton Lebed (Social Committee)
+
+[Priyanka Mondal](https://sites.udel.edu/pmondal/) (Co-Chair, Event Committee)
+
+Dixit Bhatta (Communication Committee)
+
+[Lauren Mosesso](https://sites.udel.edu/gsg/officers/) (VP Internal Affairs, GSG Executive Board)
+
+[Akshay Bhosale](http://akshayud.me/) (VP of Student Affairs, GSG Executive Board)
+
+[Samantha E. Bingaman ](https://sites.udel.edu/gsg/officers/)(President, GSG Executive Board)
+
+
+# Faculties Involved :
+
+1. [Federica b. bianco](http://fbb.space/)
+
+2. [Sunita Chandrasekaran](https://www.eecis.udel.edu/~schandra/)
+
+# Companies Involved
+
+![](http://aiwhoo.com/img/logo.png)
+
+![](https://images.squarespace-cdn.com/content/5cf6c4ed5171fc0001b43190/1559677094095-SX3U72EDS7F7DIV6C9QY/CompassRed+primary.png?format=1500w&content-type=image%2Fpng)
+
+# The Register link below is under construction. Please come back later to regiter for the event!
+
 [Register](https://forms.gle/V8avSVxczyP2M8aL8) for the event and join our [slack](https://join.slack.com/t/gsghackathon/shared_invite/zt-n4xy341u-WeZ_e0obRUoHbdUQqBya7w)
 
 **more info** [here](https://drive.google.com/file/d/1AHKEPpekK5ur3YyO5uODUI_Z4LmhVnVC/view?usp=sharing)
