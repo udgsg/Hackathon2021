@@ -90,7 +90,11 @@ Meet the organizers and the other participants on Friday 5:00-5:30 PM. This meet
 
 10:00 - 10:15 AM: Welcome back! Briefing of Day 2
 
-10:15 - 2:00 PM : Work on your Project 
+10:15 - 12:30 PM : Work on your Project 
+
+12:30-1:00 : Lunch break !
+
+1:00 - 2:00 PM : Work on your Project 
 
 2:00 - 3:00 PM : Prepare presentation
 
