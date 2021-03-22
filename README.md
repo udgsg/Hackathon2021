@@ -11,7 +11,7 @@
 
 ### 4: GSG at UD is taking first step towards fighting against "Misinformation" !
 
-### 5: A platform for students to interact with academic and industrial representative and learn from workshop and improve CV !  
+### 5: A platform for students to interact with academic and industrial representatives and learn from workshop and improve CV !  
 
 ### 6: awesome projects! - check out the project folder to find the final presentation slides and more !
 
@@ -23,17 +23,18 @@
 
 ## HACKATHON HOWTO:
 
-A Hackathon is an event where people tackle specific challenges in small groups to produce rapid results that outline issues and promising approaches to solutions. With easier access to internet, misinformation has become a challenging issue with serious repercussions in our society impacting health (Covid reality check, mask/vaccine effectiveness etc), finance (bubble detection, inflation, effect of pandemic on stockmarket, market behavior away from actual economy), media (widespread opinion without facts check via uncountable internet resources). Through this virtual Hackathon, GSG will focus on various problems associated with "Misinformation" that we as a society are facing nowadays and conclude on the findings in various fields based on data and analysis.   
+A Hackathon is an event where people tackle specific challenges in small groups to produce rapid results that outline issues and promising approaches to solutions. With easier access to internet, misinformation has become a challenging issue with serious repercussions in our society impacting health (Covid reality check, mask/vaccine effectiveness etc), finance (bubble detection, inflation, effect of pandemic on stockmarket, market behavior away from actual economy), media (widespread opinion without facts check via uncountable internet resources). Through this virtual Hackathon, we will focus on various problems associated with "Misinformation" that we as a society are facing nowadays and conclude on the findings in various fields based on data and analysis.   
 
 ## Tracks: 
 1. Misinformation in health : Is Covid real ? Does mask / Vaccine work for covid or not etc.
 
 2. Misinformation in finance : Information driven financial market (ex. Detecting bubble, Is the market going to crash, reddit short squeeze, Stock market behavior away from actual economy with record unemployment rate etc. )
 
-3. Misinformation in media : widespread opinion without facts check via uncountable internet resources.  
+3. Misinformation in media : Internet lies, Widespread opinion in almost every subject instead of facts (with no reasonable reference) via uncountable internet resources, Misinformation via news. 
 
 4. You may suggest other tracks related to misinformation !
 
+# TODO 
 Within each track, there is a dedicated slack channel \#ideas for discussion of potential projects and also find teammembers.  
 
 You do not need any specific technical expertise to participate: Although technical skills are welcome, and some of the projects will require coders and data experts, some will require writers, graphic designers, sociologists, and generally enthusiastic people willing to help! 
@@ -41,12 +42,12 @@ You do not need any specific technical expertise to participate: Although techni
 
 # Schedule:
 
-## Friday: 5:00 - 5:30 PM Meet and Greet
+## Friday: 5:00 - 5:30 PM : Meet and Greet
 
 Meet the organizers and the other participants on Friday 5:00-5:30 PM. This meeting is optional, but it is a great opportunity to ask questions about how hackathons proceed, about the four tracks, and about any project ideas you might have. 
 
 
-## Saturday: 10 - 4:30 PM Hackathon!
+## Saturday: 10 - 4:30 PM : Hackathon!
 
 10 - 11AM: Project descriptions and team assembly. It is important to join the event on time to hear all the project pitches and assure you can work on the project of your choosing and that suits your abilities and skills. 
 
@@ -65,7 +66,7 @@ Meet the organizers and the other participants on Friday 5:00-5:30 PM. This meet
 
 
 
-## Sunday: 10 - 5 PM Hackathon! TODO
+## Sunday: 10 - 5 PM : Hackathon!
 
 10 - 10:15 AM: Welcome back! Briefing of Day 2
 
