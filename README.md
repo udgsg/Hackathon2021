@@ -3,7 +3,7 @@
 
 # Please check "Wiki" tab above for details of this event ! 
 
-### 1:  connected UD community from diverse background ! 
+### 1:  connect UD community from diverse background ! 
 
 ### 2: weeks of planning (It's fun) !
 
