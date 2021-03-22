@@ -162,7 +162,7 @@ Dixit Bhatta (Communication Committee)
 
 # Registration and slack channels for the event! 
 
-** Zoom link for the event will be provided to registered participants only.**
+**Zoom link for the event will be provided to registered participants only.**
 
 [Register here](https://docs.google.com/forms/d/e/1FAIpQLSdYZDLm4KnUCXbXm5kcL4_1epDoPGJIcW2nmgZC14Pe4UcJ4w/viewform?gxids=7628) for the event.
 
