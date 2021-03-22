@@ -160,7 +160,7 @@ Dixit Bhatta (Communication Committee)
 
 ![](https://images.squarespace-cdn.com/content/5cf6c4ed5171fc0001b43190/1559677094095-SX3U72EDS7F7DIV6C9QY/CompassRed+primary.png?format=1500w&content-type=image%2Fpng)
 
-### The Register link below is under construction. Please come back later to register for the event!
+### Registration and slack channels for the event! Zoom link for the event will be provided to registered participants only. 
 
 [Register here](https://docs.google.com/forms/d/e/1FAIpQLSdYZDLm4KnUCXbXm5kcL4_1epDoPGJIcW2nmgZC14Pe4UcJ4w/viewform?gxids=7628) for the event.
 
