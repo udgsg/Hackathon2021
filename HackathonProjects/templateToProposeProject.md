@@ -18,5 +18,6 @@ DNREC: https://dnrec.alpha.delaware.gov/air/quality/monitoring/ ]
 
 ## AUTHOR: 
 [the person pitching the idea (likely will be the person who will pitch the idea at the event)]
-## SIGN UP: 
+## SIGN UP:
+# TODO 
 [interested organizers sign up here]

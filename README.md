@@ -62,7 +62,7 @@ Meet the organizers and the other participants on Friday 5:00-5:30 PM. This meet
 
 4 - 4:30 PM: Presentation by Companies outside UD followed by a Q&A
 
-4:30 : ENd of Day 1 and announcement of Day 2
+4:30 : End of Day 1 and announcement of Day 2
 
 
 
