@@ -47,38 +47,38 @@ You do not need any specific technical expertise to participate: Although techni
 Meet the organizers and the other participants on Friday 5:00-5:30 PM. This meeting is optional, but it is a great opportunity to ask questions about how hackathons proceed, about the four tracks, and about any project ideas you might have. 
 
 
-## Saturday: 10 - 4:30 PM : Hackathon!
+## Saturday: 10:00 - 4:30 PM : Hackathon!
 
-10 - 11AM: Project descriptions and team assembly. It is important to join the event on time to hear all the project pitches and assure you can work on the project of your choosing and that suits your abilities and skills. 
+10:00 - 11:00 AM: Project descriptions and team assembly. It is important to join the event on time to hear all the project pitches and assure you can work on the project of your choosing and that suits your abilities and skills. 
 
 
-11 - 12:30PM: Work in groups. Each group will have a designated zoom chat room and designated mentors.
+11:00 - 12:30 PM: Work in groups. Each group will have a designated zoom chat room and designated mentors.
 
-12:30 - 1:00PM: Lunch break !
+12:30 - 1:00 PM: Lunch break !
 
-1:00 - 1:30PM: Tutorial by Marko Petrovic on "How to use GIT" (Beginner and advanced) 
+1:00 - 1:30 PM: Tutorial by Marko Petrovic on "How to use GIT" (Beginner and advanced) 
 
-1:30 - 4:00PM: Work in groups.
+1:30 - 4:00 PM: Work in groups.
 
-4 - 4:30 PM: Presentation by Companies outside UD followed by a Q&A
+4:00 - 4:30 PM: Presentation by Companies outside UD followed by a Q&A
 
 4:30 : End of Day 1 and announcement of Day 2
 
 
 
-## Sunday: 10 - 5 PM : Hackathon!
+## Sunday: 10:00 - 4:00 PM : Hackathon!
 
-10 - 10:15 AM: Welcome back! Briefing of Day 2
+10:00 - 10:15 AM: Welcome back! Briefing of Day 2
 
-10:15 - 2:00PM : Work on your Project 
+10:15 - 2:00 PM : Work on your Project 
 
-2:00 - 3:00PM : Prepare presentation
+2:00 - 3:00 PM : Prepare presentation
 
-3:00 - 3:15PM : Remarks from judges
+3:00 - 3:15 PM : Remarks from judges
 
-3:15 - 4:00PM : Project presentation (Each group will have 5-10 minutes to present) and judging and best project awards ! Each group will be required to present their work, no exceptions! This is because we want to learn from your work and from what you learned!
+3:15 - 4:00 PM : Project presentation (Each group will have 5-10 minutes to present) and judging and best project awards ! Each group will be required to present their work, no exceptions! This is because we want to learn from your work and from what you learned!
 
-4:00PM : Adjournment with a short remark from GSG !
+4:00 PM : Adjournment with a short remark from GSG !
 
 
 # Event Description:
