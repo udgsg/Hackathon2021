@@ -9,7 +9,7 @@
 
 ### 3: project tracks to understand the impact of "Misinformation" in our society and it's implications ! 
 
-### 4: GSG at UD is taking first step towards fighting against "Misinformation" !
+### 4: GSG at UD is taking first step towards the fight against "Misinformation" !
 
 ### 5: A platform for students to interact with academic and industrial representatives and learn from workshop and improve CV !  
 
@@ -133,7 +133,7 @@ Anton Lebed (Social Committee)
 
 Dixit Bhatta (Communication Committee)
 
-[Lauren Mosesso](https://sites.udel.edu/gsg/officers/) (VP Internal Affairs, GSG Executive Board)
+[Lauren Mosesso](https://sites.udel.edu/gsg/officers/) (VP of Internal Affairs, GSG Executive Board)
 
 [Akshay Bhosale](http://akshayud.me/) (VP of Student Affairs, GSG Executive Board)
 
@@ -145,6 +145,10 @@ Dixit Bhatta (Communication Committee)
 1. [Federica b. bianco](http://fbb.space/)
 
 2. [Sunita Chandrasekaran](https://www.eecis.udel.edu/~schandra/)
+
+
+# Judges :
+ TBD 
 
 # Companies Involved
 
