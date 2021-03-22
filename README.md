@@ -1,7 +1,9 @@
-# Hackathon2021 by Graduate Student Government (GSG) at
-# University of Delaware
+# Hackathon 2021 by Graduate Student Government (GSG) at
+## University of Delaware
 
-# Please check [Wiki](https://github.com/udgsg/Hackathon2021/wiki) tab above for more details of this event ! 
+## Please check [Wiki](https://github.com/udgsg/Hackathon2021/wiki) tab above for more details of this event ! 
+
+# Register [HERE](https://docs.google.com/forms/d/e/1FAIpQLSdYZDLm4KnUCXbXm5kcL4_1epDoPGJIcW2nmgZC14Pe4UcJ4w/viewform?usp=sf_link) !
 
 ### 1:  connect UD community from diverse background ! 
 
