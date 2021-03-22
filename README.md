@@ -103,4 +103,4 @@ Though you do not have to, you are all encouraged to pitch an idea!! Even if you
 # TODO
 [Register](https://forms.gle/V8avSVxczyP2M8aL8) for the event and join our [slack](https://join.slack.com/t/udcovidhackathon/shared_invite/zt-dwgjrohv-b3MCkdDFk5fokbjdzMFuSA)
 
-**more info** [here](https://slides.com/federicabianco/ud-covid-hackathon)
+**more info** [here](https://drive.google.com/file/d/1AHKEPpekK5ur3YyO5uODUI_Z4LmhVnVC/view?usp=sharing)
