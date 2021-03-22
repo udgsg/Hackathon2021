@@ -162,7 +162,7 @@ Dixit Bhatta (Communication Committee)
 
 ### The Register link below is under construction. Please come back later to register for the event!
 
-[Register](https://forms.gle/V8avSVxczyP2M8aL8) for the event.
+[Register here](https://docs.google.com/forms/d/e/1FAIpQLSdYZDLm4KnUCXbXm5kcL4_1epDoPGJIcW2nmgZC14Pe4UcJ4w/viewform?gxids=7628) for the event.
 
 Join our slack channels :
 1. [general](https://join.slack.com/t/gsghackathon/shared_invite/zt-n4xy341u-WeZ_e0obRUoHbdUQqBya7w), 
