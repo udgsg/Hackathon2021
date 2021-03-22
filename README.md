@@ -34,7 +34,6 @@ A Hackathon is an event where people tackle specific challenges in small groups 
 
 4. You may suggest other tracks related to misinformation !
 
-# TODO 
 Within each track, there is a dedicated slack channel [ideas](https://gsghackathon.slack.com/x-p1810048800677-1825874213201-1879079643046/archives/C01S21ERZMH/p1616427651001600) for discussion of potential projects and also find teammembers.  
 
 You do not need any specific technical expertise to participate: Although technical skills are welcome, and some of the projects will require coders and data experts, some will require writers, graphic designers, sociologists, and generally enthusiastic people willing to help! 
@@ -58,9 +57,9 @@ Meet the organizers and the other participants on Friday 5:00-5:30 PM. This meet
 
 1:00 - 1:30 PM: Tutorial by Marko Petrovic on "How to use GIT" (Beginner and advanced) 
 
-1:30 - 4:00 PM: Work in groups.
+1:30 - 2:00 PM: Presentation by Companies outside UD followed by a Q&A.
 
-4:00 - 4:30 PM: Presentation by Companies outside UD followed by a Q&A
+1:30 - 4:00 PM: Work in groups.
 
 4:30 : End of Day 1 and announcement of Day 2
 
