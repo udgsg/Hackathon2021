@@ -35,7 +35,7 @@ A Hackathon is an event where people tackle specific challenges in small groups 
 4. You may suggest other tracks related to misinformation !
 
 # TODO 
-Within each track, there is a dedicated slack channel \#ideas for discussion of potential projects and also find teammembers.  
+Within each track, there is a dedicated slack channel [ideas](https://gsghackathon.slack.com/x-p1810048800677-1825874213201-1879079643046/archives/C01S21ERZMH/p1616427651001600) for discussion of potential projects and also find teammembers.  
 
 You do not need any specific technical expertise to participate: Although technical skills are welcome, and some of the projects will require coders and data experts, some will require writers, graphic designers, sociologists, and generally enthusiastic people willing to help! 
 
