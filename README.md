@@ -21,7 +21,7 @@
 
 ### 8: minutes for each project to share results and lessons learned !
 
-![](https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/s720x720/162541727_4132421636789131_4374288233905167416_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_ohc=Gfu1qUb9kWMAX9b_Spc&_nc_ht=scontent-iad3-1.xx&tp=7&oh=cda68e7b75ad3ddf04363044ace832e1&oe=607C0213)
+![](images/Hackathon.png)
 
 ## HACKATHON HOWTO:
 
