@@ -165,7 +165,6 @@ Dixit Bhatta (Communications Committee)
 
 **Zoom link for the event will be provided to registered participants only.**
 
-Join our slack channels :
-[general](https://join.slack.com/t/gsghackathon/shared_invite/zt-n4xy341u-WeZ_e0obRUoHbdUQqBya7w), 
+Join our [slack channel](https://join.slack.com/t/gsghackathon/shared_invite/zt-n4xy341u-WeZ_e0obRUoHbdUQqBya7w) to stay updated ! 
 
 **more info** [here](https://drive.google.com/file/d/1AHKEPpekK5ur3YyO5uODUI_Z4LmhVnVC/view?usp=sharing)
