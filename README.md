@@ -161,15 +161,11 @@ Dixit Bhatta (Communications Committee)
 
 ![](https://images.squarespace-cdn.com/content/5cf6c4ed5171fc0001b43190/1559677094095-SX3U72EDS7F7DIV6C9QY/CompassRed+primary.png?format=1500w&content-type=image%2Fpng)
 
-# Registration and slack channels for the event! 
+# Slack channels for the event! 
 
 **Zoom link for the event will be provided to registered participants only.**
 
-[Register here](https://docs.google.com/forms/d/e/1FAIpQLSdYZDLm4KnUCXbXm5kcL4_1epDoPGJIcW2nmgZC14Pe4UcJ4w/viewform?gxids=7628) for the event.
-
 Join our slack channels :
-1. [general](https://join.slack.com/t/gsghackathon/shared_invite/zt-n4xy341u-WeZ_e0obRUoHbdUQqBya7w), 
-
-2. [ideas](https://gsghackathon.slack.com/x-p1810048800677-1825874213201-1879079643046/archives/C01S21ERZMH/p1616427651001600) 
+[general](https://join.slack.com/t/gsghackathon/shared_invite/zt-n4xy341u-WeZ_e0obRUoHbdUQqBya7w), 
 
 **more info** [here](https://drive.google.com/file/d/1AHKEPpekK5ur3YyO5uODUI_Z4LmhVnVC/view?usp=sharing)
