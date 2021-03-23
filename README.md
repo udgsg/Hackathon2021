@@ -71,7 +71,9 @@ Meet the organizers and the other participants on Friday 5:00-5:30 PM. This meet
 
 ## April 24, Saturday: 10:00 - 4:00 PM : Hackathon!
 
-10:00 - 11:00 AM: Project descriptions and team assembly. It is important to join the event on time to hear all the project pitches and assure you can work on the project of your choosing and that suits your abilities and skills. 
+10:00 - 10:05 AM: Remark on **Misinformation** from GSG President Samantha E. Bingaman.
+
+10:05 - 11:00 AM: Project descriptions and team assembly. It is important to join the event on time to hear all the project pitches and assure you can work on the project of your choosing and that suits your abilities and skills. 
 
 11:00 - 12:30 PM: Work in groups. Each group will have a designated zoom chat room and designated mentors.
 
