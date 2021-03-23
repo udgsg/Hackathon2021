@@ -173,10 +173,4 @@ Join our [slack channel](https://join.slack.com/t/gsghackathon/shared_invite/zt-
 
 # Check out our website and follow us on social media platforms:
 
-1. [Hackathon by GSG](https://sites.udel.edu/gsg/gsg-hackathon/)
-
-2. [Facebook](https://www.facebook.com/udgsg/photos/a.812111018811090/3882481725107322/)
-
-2. [Instagram](https://www.instagram.com/ud_gsg/)
-
-3. [Twitter](https://twitter.com/UD_GSG/status/1374405769844588552/photo/1)
+[Hackathon by GSG](https://sites.udel.edu/gsg/gsg-hackathon/), [Facebook](https://www.facebook.com/udgsg/photos/a.812111018811090/3882481725107322/), [Instagram](https://www.instagram.com/ud_gsg/), [Twitter](https://twitter.com/UD_GSG/status/1374405769844588552/photo/1)
