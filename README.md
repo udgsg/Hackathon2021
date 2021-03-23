@@ -170,3 +170,13 @@ Dixit Bhatta (Communications Committee)
 Join our [slack channel](https://join.slack.com/t/gsghackathon/shared_invite/zt-n4xy341u-WeZ_e0obRUoHbdUQqBya7w) to stay updated ! 
 
 **more info** [here](https://drive.google.com/file/d/1AHKEPpekK5ur3YyO5uODUI_Z4LmhVnVC/view?usp=sharing)
+
+# Check out our website and follow us on social media platforms:
+
+1. [Hackathon by GSG](https://sites.udel.edu/gsg/gsg-hackathon/)
+
+2. [Facebook](https://www.facebook.com/udgsg/photos/a.812111018811090/3882481725107322/)
+
+2. [Instagram](https://www.instagram.com/ud_gsg/)
+
+3. [Twitter](https://twitter.com/UD_GSG/status/1374405769844588552/photo/1)
