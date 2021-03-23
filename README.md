@@ -7,7 +7,7 @@
 
 ### 2: weeks of planning (It's fun) !
 
-### 3: project tracks to understand the impact of "Misinformation" in our society and it's implications ! 
+### 3: project tracks to understand the impact of "Misinformation" in our society and its implications ! 
 
 ### 4: GSG at UD is taking first step towards the fight against "Misinformation" !
 
