@@ -1,7 +1,9 @@
-# Hackathon2021 by Graduate Student Government (GSG) at
-# University of Delaware
+# Hackathon 2021 by Graduate Student Government (GSG) at
+## University of Delaware
 
-# Please check [Wiki](https://github.com/udgsg/Hackathon2021/wiki) tab above for more details of this event ! 
+## Please check [Wiki](https://github.com/udgsg/Hackathon2021/wiki) tab above for more details of this event ! 
+
+# Register [HERE](https://docs.google.com/forms/d/e/1FAIpQLSdYZDLm4KnUCXbXm5kcL4_1epDoPGJIcW2nmgZC14Pe4UcJ4w/viewform?usp=sf_link) !
 
 ### 1:  connect UD community from diverse background ! 
 
@@ -71,10 +73,9 @@ Meet the organizers and the other participants on Friday 5:00-5:30 PM. This meet
 
 10:00 - 11:00 AM: Project descriptions and team assembly. It is important to join the event on time to hear all the project pitches and assure you can work on the project of your choosing and that suits your abilities and skills. 
 
-
 11:00 - 12:30 PM: Work in groups. Each group will have a designated zoom chat room and designated mentors.
 
-12:30 - 1:00 PM: Lunch break !
+12:30 - 1:00 PM: Lunch break!
 
 1:00 - 1:30 PM: Tutorial by Marko Petrovic on "How to use GIT" (Beginner and advanced) 
 
@@ -92,7 +93,7 @@ Meet the organizers and the other participants on Friday 5:00-5:30 PM. This meet
 
 10:15 - 12:30 PM : Work on your Project 
 
-12:30-1:00 : Lunch break !
+12:30-1:00 : Lunch break!
 
 1:00 - 2:00 PM : Work on your Project 
 
@@ -100,9 +101,9 @@ Meet the organizers and the other participants on Friday 5:00-5:30 PM. This meet
 
 3:00 - 3:15 PM : Remarks from judges
 
-3:15 - 4:00 PM : Project presentation (Each group will have 5-10 minutes to present) and judging and best project awards ! Each group will be required to present their work, no exceptions! This is because we want to learn from your work and from what you learned!
+3:15 - 4:00 PM : Project presentation (Each group will have 5-10 minutes to present) and judging and best project awards! Each group will be required to present their work, no exceptions! This is because we want to learn from your work and from what you learned!
 
-4:00 PM : Adjournment with a short remark from GSG !
+4:00 PM : Adjournment with a short remark from GSG!
 
 
 # Event Description:
@@ -135,7 +136,7 @@ Anton Lebed (Social Committee)
 
 [Priyanka Mondal](https://sites.udel.edu/pmondal/) (Co-Chair, Event Committee)
 
-Dixit Bhatta (Communication Committee)
+Dixit Bhatta (Communications Committee)
 
 [Lauren Mosesso](https://sites.udel.edu/gsg/officers/) (VP of Internal Affairs, GSG Executive Board)
 
@@ -146,7 +147,7 @@ Dixit Bhatta (Communication Committee)
 
 # Faculties Involved :
 
-1. [Federica b. bianco](http://fbb.space/)
+1. [Federica B. Bianco](http://fbb.space/)
 
 2. [Sunita Chandrasekaran](https://www.eecis.udel.edu/~schandra/)
 
