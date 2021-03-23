@@ -46,7 +46,7 @@ Each team must have 1-4 members with atleast one graduate student.
 
 ## Motivation:
 
-Cash Prize (1st position : $500, 2nd position : $300, 3rd position : $200), Certificates for all, Networking opportunities, Mentorship opportunities. 
+Cash Prize (1st position : $400, 2nd position : $300, 3rd position : $200), Certificates for all, Networking opportunities, Mentorship opportunities. 
 
 ## Tracks: 
 1. Misinformation in health : Is Covid real ? Does mask / Vaccine work for covid or not etc.
