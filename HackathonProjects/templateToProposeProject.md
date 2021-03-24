@@ -1,3 +1,5 @@
+### Submit your project by filling out the sections below and email directly at pmondal@udel.edu (Have fun being creative).
+
 # TITLE
 
 ## Proposer: 
@@ -18,6 +20,4 @@ DNREC: https://dnrec.alpha.delaware.gov/air/quality/monitoring/ ]
 
 ## AUTHOR: 
 [the person pitching the idea (likely will be the person who will pitch the idea at the event)]
-## SIGN UP:
-# TODO 
-[interested organizers sign up here]
+
