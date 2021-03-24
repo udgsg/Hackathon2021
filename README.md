@@ -178,4 +178,4 @@ Join our [slack channel](https://join.slack.com/t/gsghackathon/shared_invite/zt-
 
 [GSG Hackathon](https://sites.udel.edu/gsg/gsg-hackathon/), [Facebook](https://www.facebook.com/udgsg/photos/a.812111018811090/3882481725107322/), [Instagram](https://www.instagram.com/ud_gsg/), [Twitter](https://twitter.com/UD_GSG/status/1374405769844588552/photo/1)
 
-### For any questions related to this event please contact Priyanka Mondal (pmondal@udel.edu). 
+### For any questions related to this event please contact Priyanka Mondal (pmondal@udel.edu) or any of our organizers.  
