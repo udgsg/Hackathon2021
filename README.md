@@ -1,7 +1,7 @@
 # Hackathon 2021 by Graduate Student Government (GSG) at
 ## University of Delaware
 
-## Please check [Wiki](https://github.com/udgsg/Hackathon2021/wiki) tab above for more details of this event ! 
+## Check out our [Website](https://sites.udel.edu/gsg/gsg-hackathon/) for this event ! 
 
 # Register [HERE](https://docs.google.com/forms/d/e/1FAIpQLSdYZDLm4KnUCXbXm5kcL4_1epDoPGJIcW2nmgZC14Pe4UcJ4w/viewform?usp=sf_link) !
 
@@ -15,7 +15,7 @@
 
 ### 5: A platform for students to interact with academic and industrial representatives and learn from workshop and improve CV !  
 
-### 6: awesome projects! - check out the project folder to find the final presentation slides and more !
+### 6: awesome projects! - Submit your projects directly to pmondal@udel.edu using the template [templateToProposeProject.md](https://github.com/udgsg/Hackathon2021/blob/main/HackathonProjects/templateToProposeProject.md)!
 
 ### 7: hours of writing, coding, visualizing, brainstorming, discussing !
 
@@ -35,6 +35,8 @@ April 23rd-April 25th, 2021
 ## Where: 
 
 Virtual (via zoom and slack)
+
+**Zoom link for the event will be provided to registered participants only.**
 
 ## Who is participating:
 
@@ -73,7 +75,7 @@ Meet the organizers and the other participants on Friday 5:00-5:30 PM. This meet
 
 10:00 - 10:05 AM: Remark on **Misinformation** from GSG President Samantha E. Bingaman.
 
-10:05 - 11:00 AM: Project descriptions and team assembly. It is important to join the event on time to hear all the project pitches and assure you can work on the project of your choosing and that suits your abilities and skills. 
+10:05 - 11:00 AM: Project descriptions and team assembly. It is important to join the event on time to hear all the project pitches and assure you can work on the project of your choice and that suits your abilities and skills. 
 
 11:00 - 12:30 PM: Work in groups. Each group will have a designated zoom chat room and designated mentors.
 
@@ -157,6 +159,9 @@ Dixit Bhatta (Communications Committee)
 # Judges :
  TBD 
 
+# Judging criteria :
+ TBD 
+
 # Companies Involved
 
 ![](http://aiwhoo.com/img/logo.png)
@@ -165,8 +170,6 @@ Dixit Bhatta (Communications Committee)
 
 # Slack channels for the event! 
 
-**Zoom link for the event will be provided to registered participants only.**
-
 Join our [slack channel](https://join.slack.com/t/gsghackathon/shared_invite/zt-n4xy341u-WeZ_e0obRUoHbdUQqBya7w) to stay updated ! 
 
 **more info** [here](https://drive.google.com/file/d/1AHKEPpekK5ur3YyO5uODUI_Z4LmhVnVC/view?usp=sharing)
@@ -174,3 +177,5 @@ Join our [slack channel](https://join.slack.com/t/gsghackathon/shared_invite/zt-
 # Check out our website and follow us on social media platforms:
 
 [GSG Hackathon](https://sites.udel.edu/gsg/gsg-hackathon/), [Facebook](https://www.facebook.com/udgsg/photos/a.812111018811090/3882481725107322/), [Instagram](https://www.instagram.com/ud_gsg/), [Twitter](https://twitter.com/UD_GSG/status/1374405769844588552/photo/1)
+
+### For any questions related to this event please contact Priyanka Mondal (pmondal@udel.edu). 
