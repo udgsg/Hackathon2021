@@ -165,7 +165,9 @@ Dixit Bhatta (Communications Committee)
 
 
 # Judges :
- TBD 
+
+*
+<img src="https://web.physics.udel.edu/sites/default/files/styles/people_images/public/images/people/bianco.jpg?itok=inFdhtX0" height="100" width="100" alt="Federica B. Bianco" >
 
 # Judging criteria :
  TBD 
