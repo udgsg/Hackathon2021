@@ -198,16 +198,13 @@ Dixit Bhatta (Communications Committee)
 *
 <img src="https://cpb-us-w2.wpmucdn.com/sites.udel.edu/dist/6/557/files/2014/03/Header-13354s4.jpg" align="left" width="400"/>
 
-<br />
 
 *
 <img src="https://1000logos.net/wp-content/uploads/2020/04/J.P.-Morgan-Chase-Logo.png" align="left" width="400"/>
 
-<br />
 
 *
-<img src="http://aiwhoo.com/img/logo.png" align="left" width="400"/>
-
+<img src="http://aiwhoo.com/img/logo.png" align="left" width="300"/>
 
 <br />
 
