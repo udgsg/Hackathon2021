@@ -170,6 +170,12 @@ Dixit Bhatta (Communications Committee)
 
 ![](https://images.squarespace-cdn.com/content/5cf6c4ed5171fc0001b43190/1559677094095-SX3U72EDS7F7DIV6C9QY/CompassRed+primary.png?format=1500w&content-type=image%2Fpng)
 
+# Sponsors : 
+
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsites.udel.edu%2Fgsg%2F&psig=AOvVaw0uMbDOoV0334ahXzDhfmBS&ust=1617246678638000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPiir8PH2e8CFQAAAAAdAAAAABAJ)
+
+![](http://aiwhoo.com/img/logo.png)
+
 # Slack channels for the event! 
 
 Join our [slack channel](https://join.slack.com/t/gsghackathon/shared_invite/zt-n4xy341u-WeZ_e0obRUoHbdUQqBya7w) to stay updated ! 
