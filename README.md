@@ -172,7 +172,7 @@ Dixit Bhatta (Communications Committee)
 
 # Sponsors : 
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsites.udel.edu%2Fgsg%2F&psig=AOvVaw0uMbDOoV0334ahXzDhfmBS&ust=1617246678638000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPiir8PH2e8CFQAAAAAdAAAAABAJ)
+![](https://cpb-us-w2.wpmucdn.com/sites.udel.edu/dist/6/557/files/2014/03/Header-13354s4.jpg)
 
 ![](http://aiwhoo.com/img/logo.png)
 
