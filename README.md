@@ -196,12 +196,17 @@ Dixit Bhatta (Communications Committee)
 # Thank you to our generous sponsors : 
 
 *
-<img src="https://cpb-us-w2.wpmucdn.com/sites.udel.edu/dist/6/557/files/2014/03/Header-13354s4.jpg" align="left" width="100"/>
+<img src="https://cpb-us-w2.wpmucdn.com/sites.udel.edu/dist/6/557/files/2014/03/Header-13354s4.jpg" align="left" width="400"/>
 
 <br />
 
 *
-<img src="http://aiwhoo.com/img/logo.png" align="left" width="100"/>
+<img src="https://1000logos.net/wp-content/uploads/2020/04/J.P.-Morgan-Chase-Logo.png" align="left" width="400"/>
+
+<br />
+
+*
+<img src="http://aiwhoo.com/img/logo.png" align="left" width="400"/>
 
 
 # Slack channels for the event! 
