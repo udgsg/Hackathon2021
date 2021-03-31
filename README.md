@@ -170,7 +170,7 @@ Dixit Bhatta (Communications Committee)
 
 **Federica B. Bianco** : Assistant Professor in  Departments of Physics and Astronomy and in the School of Public Policy and Administration and a Resident Faculty in the Data Science Institute. [**University Of Delaware**]
 
-<align="center">
+Affiliation : University Of Delaware
 
 # Judging criteria :
  TBD 
