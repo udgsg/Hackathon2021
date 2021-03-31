@@ -193,13 +193,14 @@ Dixit Bhatta (Communications Committee)
 
 ![](https://images.squarespace-cdn.com/content/5cf6c4ed5171fc0001b43190/1559677094095-SX3U72EDS7F7DIV6C9QY/CompassRed+primary.png?format=1500w&content-type=image%2Fpng)
 
-# Sponsors : 
+# Thank you to our generous sponsors : 
 
-* 
-![](https://cpb-us-w2.wpmucdn.com/sites.udel.edu/dist/6/557/files/2014/03/Header-13354s4.jpg)
+*
+<img src="https://cpb-us-w2.wpmucdn.com/sites.udel.edu/dist/6/557/files/2014/03/Header-13354s4.jpg" align="left" width="100"/>
 
-* 
-![](http://aiwhoo.com/img/logo.png)
+*
+<img src="http://aiwhoo.com/img/logo.png" align="left" width="100"/>
+
 
 # Slack channels for the event! 
 
