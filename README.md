@@ -195,14 +195,11 @@ Dixit Bhatta (Communications Committee)
 
 # Thank you to our generous sponsors : 
 
-*
-<img src="https://cpb-us-w2.wpmucdn.com/sites.udel.edu/dist/6/557/files/2014/03/Header-13354s4.jpg" align="left" width="400"/>
+* 
+![](https://cpb-us-w2.wpmucdn.com/sites.udel.edu/dist/6/557/files/2014/03/Header-13354s4.jpg)
 
-<br />
-
-*
-<img src="http://aiwhoo.com/img/logo.png" align="left" width="300"/>
-
+* 
+![](http://aiwhoo.com/img/logo.png)
 
 # Slack channels for the event! 
 
