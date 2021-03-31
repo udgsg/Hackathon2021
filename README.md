@@ -167,7 +167,8 @@ Dixit Bhatta (Communications Committee)
 # Judges :
 
 *
-<img src="https://web.physics.udel.edu/sites/default/files/styles/people_images/public/images/people/bianco.jpg?itok=inFdhtX0" height="100" width="100" alt="Federica B. Bianco" >
+<img src="https://web.physics.udel.edu/sites/default/files/styles/people_images/public/images/people/bianco.jpg?itok=inFdhtX0" align="left" width="100"/>
+**Federica B. Bianco** : Assistant Professor in  Departments of Physics and Astronomy and in the School of Public Policy and Administration and a Resident Faculty in the Data Science Institute. [**University Of Delaware**]
 
 # Judging criteria :
  TBD 
