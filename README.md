@@ -49,8 +49,6 @@ Each team must have 1-4 members with atleast one graduate student.
 ## Motivation:
 
 * Cash Prize (1st position : $500, 2nd position : $300, 3rd position : $200), 
-
-* Gift kits for winning teams from J. P. Morgan.  
  
 * Certificates for all, 
 
@@ -182,9 +180,6 @@ Dixit Bhatta (Communications Committee)
 
 * 
 ![](https://cpb-us-w2.wpmucdn.com/sites.udel.edu/dist/6/557/files/2014/03/Header-13354s4.jpg)
-
-*
-![](https://dividendpathway322272543.files.wordpress.com/2020/06/jp-morgan-chase-logo.jpg)
 
 * 
 ![](http://aiwhoo.com/img/logo.png)
