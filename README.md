@@ -174,6 +174,8 @@ Dixit Bhatta (Communications Committee)
 
 **Affiliation** : University Of Delaware
 
+<br />
+
 *
 
 <img src="https://tiffanyebarber.com/wp-content/uploads/2020/11/Tiffany-P1030507-min-768x522.jpg" align="left" width="100"/>
