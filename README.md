@@ -199,7 +199,7 @@ Dixit Bhatta (Communications Committee)
 ![](https://cpb-us-w2.wpmucdn.com/sites.udel.edu/dist/6/557/files/2014/03/Header-13354s4.jpg)
 
 * 
-![](https://1000logos.net/wp-content/uploads/2020/04/J.P.-Morgan-Chase-Logo.png)
+![](https://upload.wikimedia.org/wikipedia/en/6/6c/Jp_morgan_logo.jpg)
 
 * 
 ![](http://aiwhoo.com/img/logo.png)
