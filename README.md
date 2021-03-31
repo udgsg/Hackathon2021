@@ -209,6 +209,8 @@ Dixit Bhatta (Communications Committee)
 <img src="http://aiwhoo.com/img/logo.png" align="left" width="400"/>
 
 
+<br />
+
 # Slack channels for the event! 
 
 Join our [slack channel](https://join.slack.com/t/gsghackathon/shared_invite/zt-n4xy341u-WeZ_e0obRUoHbdUQqBya7w) to stay updated ! 
