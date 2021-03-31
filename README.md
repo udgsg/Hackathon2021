@@ -176,6 +176,7 @@ Dixit Bhatta (Communications Committee)
 
 * ![](http://aiwhoo.com/img/logo.png)
 
+* ![](https://careers.jpmorgan.com/content/dam/careers/logos/jpmorgan-chase-logos/jpmc-logo.png)
 
 # Slack channels for the event! 
 
