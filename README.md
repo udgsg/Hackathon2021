@@ -170,19 +170,23 @@ Dixit Bhatta (Communications Committee)
 
 <img src="images/CompassRed/Eugene.png" align="left" width="100"/>
 
-**Federica B. Bianco** : Assistant Professor in  Departments of Physics and Astronomy and in the School of Public Policy and Administration and a Resident Faculty in the Data Science Institute.
+**Eugene Olkhov** : Eugene is a member of the Data Science team at CompassRed, and loves manipulating and modeling data. Tapping into his eclectic experience from psychology and business, Eugene enjoys thinking about the "why?", and how can he make a difference in our clients' practices.
 
-**Affiliation** : University Of Delaware
+When Eugene isn't found behind a bunch of code, he can be found behind his camera. Eugene's camera pushes him to explore and find new places in the city and in nature so that he can capture and share how he sees the world.
+
+**Affiliation** : CompassRed
 
 <br />
 
 *
 
-<img src="https://tiffanyebarber.com/wp-content/uploads/2020/11/Tiffany-P1030507-min-768x522.jpg" align="left" width="100"/>
+<img src="images/CompassRed/Ryan.png" align="left" width="100"/>
 
-**Tiffany E. Barber** : Assistant Professor of Africana Studies and Art History. She is a scholar, curator, and critic of twentieth and twenty-first century visual art, new media, and performance.
+**Ryan Harrington** : Ryan leads the Data Science team at CompassRed, always looking for ways to better lift insights and tell stories from data. Ryan became a data scientist because he was driven by an insatiable desire to solve problems and explore solutions. He constantly draws on his experience as a high school math teacher, which he uses today to help make some of the complexities of data science simple and relatable for our clients.
 
-**Affiliation** : University Of Delaware
+Ryan loves to solve and explore outside of work as well. He spends most of his free time working on Open Data Delaware, a civic technology community in Delaware that he founded and organizes. When he has a free moment, he loves understanding the world through travel - from Zion to Zanzibar. 
+
+**Affiliation** : CompassRed
 
 # Judges :
 
