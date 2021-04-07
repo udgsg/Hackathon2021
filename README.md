@@ -91,9 +91,9 @@ Meet the organizers and the other participants on Friday 5:00-5:30 PM. This meet
 
 12:30 - 1:00 PM: Lunch break!
 
-1:00 - 1:30 PM: Tutorial by Marko Petrovic on "How to use GIT" (Beginner and advanced) 
+1:00 - 1:30 PM: Tutorial by Marko Petrovic  and Abhin Suresh on "How to use GIT"
 
-1:30 - 2:00 PM: Presentation by Companies outside UD followed by a Q&A.
+1:30 - 2:00 PM: Presentation by Companies (Data scientists from CompassRed and more) followed by a Q&A.
 
 1:30 - 4:00 PM: Work in groups.
 
