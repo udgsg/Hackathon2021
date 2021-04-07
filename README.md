@@ -164,6 +164,26 @@ Dixit Bhatta (Communications Committee)
 2. [Sunita Chandrasekaran](https://www.eecis.udel.edu/~schandra/)
 
 
+# Company Representatives :
+
+*
+
+<img src="images/CompassRed/Eugene.png" align="left" width="100"/>
+
+**Federica B. Bianco** : Assistant Professor in  Departments of Physics and Astronomy and in the School of Public Policy and Administration and a Resident Faculty in the Data Science Institute.
+
+**Affiliation** : University Of Delaware
+
+<br />
+
+*
+
+<img src="https://tiffanyebarber.com/wp-content/uploads/2020/11/Tiffany-P1030507-min-768x522.jpg" align="left" width="100"/>
+
+**Tiffany E. Barber** : Assistant Professor of Africana Studies and Art History. She is a scholar, curator, and critic of twentieth and twenty-first century visual art, new media, and performance.
+
+**Affiliation** : University Of Delaware
+
 # Judges :
 
 *
