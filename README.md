@@ -1,3 +1,5 @@
+## Please check back later for updates 
+
 # Hackathon 2021 by Graduate Student Government (GSG) at
 ## University of Delaware
 
@@ -194,7 +196,7 @@ Ryan loves to solve and explore outside of work as well. He spends most of his f
 
 <img src="https://web.physics.udel.edu/sites/default/files/styles/people_images/public/images/people/bianco.jpg?itok=inFdhtX0" align="left" width="100"/>
 
-**Federica B. Bianco** : Assistant Professor in  Departments of Physics and Astronomy and in the School of Public Policy and Administration and a Resident Faculty in the Data Science Institute.
+**Federica B. Bianco** : Federica is an Assistant Professor at UD in the Department of Physics and Astronomy and the Biden School of Public Policy and Administration and a Resident Faculty in the Data Science Institute. In physics, she studies stellar evolution and cosmology using data-driven solutions and machine learning tools. In Urban Observatory, she studies urban lightcurves enabled socio-economic inference in the urban environment. She was a Smithsonian postdoctoral and James Arthur postdoctoral fellow and was the recipient of "Innovative Development in Energy-Related Applied Science" grant. She appeared as a TED TALK SPEAKER in 2019 and is a well-known boxer, "The MadScientist".  
 
 **Affiliation** : University Of Delaware
 
@@ -204,7 +206,7 @@ Ryan loves to solve and explore outside of work as well. He spends most of his f
 
 <img src="https://tiffanyebarber.com/wp-content/uploads/2020/11/Tiffany-P1030507-min-768x522.jpg" align="left" width="100"/>
 
-**Tiffany E. Barber** : Assistant Professor of Africana Studies and Art History. She is a scholar, curator, and critic of twentieth and twenty-first century visual art, new media, and performance.
+**Tiffany E. Barber** : Tiffany E. Barber, an Assistant Professor of Africana Studies and Art History at UD, is a scholar, curator, and critic of twentieth and twenty-first century visual art, new media, and performance. Her work, which spans abstraction, Afrofuturism, dance, fashion, feminism, and ethics of representation and aesthetic criticism, focuses on artists of Black diaspora working in the United States and the broader Atlantic world. She has completed fellowships at ArtTable, the Delaware Art Museum, and the University of Virginia’s Carter G. Woodson Institute for African-American and African Studies. She will be a Postdoctoral Fellow at the Getty Research Institute in 2021-2022.  
 
 **Affiliation** : University Of Delaware
 
