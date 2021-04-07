@@ -54,7 +54,7 @@ Each team must have 1-4 members with atleast one graduate student.
  
 * Certificates for all, 
 
-* Networking opportunities with students, faculties, industrial representatives
+* Networking opportunities with students, faculties, industrial representatives (AiWhoo, CompassRed, JPMorgan Chase)
 
 * Mentorship opportunities. 
 
