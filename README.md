@@ -52,11 +52,11 @@ Each team must have 1-4 members with atleast one graduate student.
 
 * Cash Prize (1st position : $500, 2nd position : $300, 3rd position : $200), 
 
-* Gift kits for winning teams from JP Morgan Chase.
+* Gift kits for winning teams from JPMorgan Chase.
  
 * Certificates for all, 
 
-* Networking opportunities with students, faculties, industrial representatives (AiWhoo, CompassRed, JP Morgan Chase)
+* Networking opportunities with students, faculties, industrial representatives (AiWhoo, CompassRed, JPMorgan Chase)
 
 * Mentorship opportunities. 
 
@@ -229,17 +229,17 @@ Ryan loves to solve and explore outside of work as well. He spends most of his f
 
 **Jesus Martinez Caudillo** : Jesus is a Full-Stack software developer with 11 years of experience with web based systems. He graduated from bachelor’s degree in “Communication and Systems Engineering” from ”Universidad Autonoma del Estado de Mexico” and master of Science degree “Information and Media Technologies” from Technical University of Hamburg. His professional background comprehends many fields such as Software development, Software analysis, Application Security, DevOps and Image processing. Jesus has worked with many programing languages namely Python, Java, JavaScript (EMA script), SQL, HTML5, PHP, .NET, C++ and some their frameworks. Jesus is currently attending the JPMC-UD Cybersecurity Certification program and learning AWS architecture.
 
-**Affiliation** : JP Morgan Chase 
+**Affiliation** : JPMorgan Chase 
 
 *
 
 <img src="images/JMC/Kevin.jpg" align="left" width="100"/>
 
-**Kevin Wojcik** : Kevin Wojcik is a Vice President within the Production Management & Resiliency team within Cyber and Technology Controls (CTC) for JP Morgan Chase.  He has over twenty-five years of experience in technology Architecture, Engineering and Operations.  Kevin joined JPMC in 2016 as an infrastructure technology subject matter expert concentrating on resiliency architectures.  He continues to expand his expertise of cloud platforms and cyber security as he helps reshape the firmwide resiliency initiatives for the future.
+**Kevin Wojcik** : Kevin Wojcik is a Vice President within the Production Management & Resiliency team within Cyber and Technology Controls (CTC) for JPMorgan Chase.  He has over twenty-five years of experience in technology Architecture, Engineering and Operations.  Kevin joined JPMC in 2016 as an infrastructure technology subject matter expert concentrating on resiliency architectures.  He continues to expand his expertise of cloud platforms and cyber security as he helps reshape the firmwide resiliency initiatives for the future.
 
 Previously, Kevin managed end-user services for S&P Global, where he had responsibility for the engineering and operations of all internal end-user technologies globally.  Kevin has his CISA and CCSP certifications, holds an undergraduate and graduate degree in Information Systems from Drexel University and is now attending a Cyber program at the University of Delaware.
 
-**Affiliation** : JP Morgan Chase 
+**Affiliation** : JPMorgan Chase 
 
 **More to come**
 
