@@ -246,9 +246,13 @@ Previously, Kevin managed end-user services for S&P Global, where he had respons
 # Judging criteria :
  
 **Relevance** How relevant is the project to the Hackathon theme?
+
 **Originality** Does the project bring a novel approach  and original ideas (technically or analytically)?
+
 **Design** Is the product easy to use and aesthetically pleasing?
+
 **Functionality** Does the product properly function and does what it is supposed to do?
+
 **Applicability** Can the ideas and delivered product be used and easily extended?
 
 # Companies Involved
