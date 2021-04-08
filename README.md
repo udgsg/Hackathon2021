@@ -23,7 +23,7 @@
 
 ### 8: minutes for each project to share results and lessons learned !
 
-![](images/Hackathon.png)
+<img src="images/Hackathon.png" align="center" width="400"/>
 
 ## HACKATHON HOWTO:
 
