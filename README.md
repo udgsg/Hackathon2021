@@ -238,9 +238,11 @@ Ryan loves to solve and explore outside of work as well. He spends most of his f
 
 # Companies Involved
 
+*
 ![](http://aiwhoo.com/img/logo.png)
 
-![](https://images.squarespace-cdn.com/content/5cf6c4ed5171fc0001b43190/1559677094095-SX3U72EDS7F7DIV6C9QY/CompassRed+primary.png?format=1500w&content-type=image%2Fpng)
+* 
+<img src="https://images.squarespace-cdn.com/content/5cf6c4ed5171fc0001b43190/1559677094095-SX3U72EDS7F7DIV6C9QY/CompassRed+primary.png?format=1500w&content-type=image%2Fpng" align="center" width="400"/>
 
 # Thank you to our generous sponsors : 
 
