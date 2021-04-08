@@ -51,6 +51,8 @@ Each team must have 1-4 members with atleast one graduate student.
 ## Motivation:
 
 * Cash Prize (1st position : $500, 2nd position : $300, 3rd position : $200), 
+
+* Gift kits for winning teams from JPMorgan Chase.
  
 * Certificates for all, 
 
@@ -221,6 +223,14 @@ Ryan loves to solve and explore outside of work as well. He spends most of his f
 
 **Affiliation** : University Of Delaware
 
+*
+
+<img src="images/JMC/JMC headshot.JPG" align="left" width="100"/>
+
+**Jesus Martinez Caudillo** : Jesus is a Full-Stack software developer with 11 years of experience with web based systems. He graduated from bachelor’s degree in “Communication and Systems Engineering” from ”Universidad Autonoma del Estado de Mexico” and master of Science degree “Information and Media Technologies” from Technical University of Hamburg. His professional background comprehends many fields such as Software development, Software analysis, Application Security, DevOps and Image processing. Jesus has worked with many programing languages namely Python, Java, JavaScript (EMA script), SQL, HTML5, PHP, .NET, C++ and some their frameworks. Jesus is currently attending the JPMC-UD Cybersecurity Certification program and learning AWS architecture.
+
+**Affiliation** : JPMorgan Chase 
+
 **More to come**
 
 # Judging criteria :
@@ -236,6 +246,9 @@ Ryan loves to solve and explore outside of work as well. He spends most of his f
 
 * 
 ![](https://cpb-us-w2.wpmucdn.com/sites.udel.edu/dist/6/557/files/2014/03/Header-13354s4.jpg)
+
+* 
+![](images/JPMLogo/Logo2008_JPMC_D_Black.png)
 
 * 
 ![](http://aiwhoo.com/img/logo.png)
