@@ -245,7 +245,7 @@ Ryan loves to solve and explore outside of work as well. He spends most of his f
 # Thank you to our generous sponsors : 
 
 * 
-<img src="https://cpb-us-w2.wpmucdn.com/sites.udel.edu/dist/6/557/files/2014/03/Header-13354s4.jpg" align="left" width="400"/>
+<img src="https://cpb-us-w2.wpmucdn.com/sites.udel.edu/dist/6/557/files/2014/03/Header-13354s4.jpg" align="center" width="400"/>
 
 <br />
 
