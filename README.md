@@ -52,11 +52,11 @@ Each team must have 1-4 members with atleast one graduate student.
 
 * Cash Prize (1st position : $500, 2nd position : $300, 3rd position : $200), 
 
-* Gift kits for winning teams from JPMorgan Chase.
+* Gift kits for winning teams from JP Morgan Chase.
  
 * Certificates for all, 
 
-* Networking opportunities with students, faculties, industrial representatives (AiWhoo, CompassRed, JPMorgan Chase)
+* Networking opportunities with students, faculties, industrial representatives (AiWhoo, CompassRed, JP Morgan Chase)
 
 * Mentorship opportunities. 
 
@@ -229,7 +229,7 @@ Ryan loves to solve and explore outside of work as well. He spends most of his f
 
 **Jesus Martinez Caudillo** : Jesus is a Full-Stack software developer with 11 years of experience with web based systems. He graduated from bachelor’s degree in “Communication and Systems Engineering” from ”Universidad Autonoma del Estado de Mexico” and master of Science degree “Information and Media Technologies” from Technical University of Hamburg. His professional background comprehends many fields such as Software development, Software analysis, Application Security, DevOps and Image processing. Jesus has worked with many programing languages namely Python, Java, JavaScript (EMA script), SQL, HTML5, PHP, .NET, C++ and some their frameworks. Jesus is currently attending the JPMC-UD Cybersecurity Certification program and learning AWS architecture.
 
-**Affiliation** : JPMorgan Chase 
+**Affiliation** : JP Morgan Chase 
 
 **More to come**
 
