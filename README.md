@@ -231,6 +231,16 @@ Ryan loves to solve and explore outside of work as well. He spends most of his f
 
 **Affiliation** : JP Morgan Chase 
 
+*
+
+<img src="images/JMC/Kevin.jpg" align="left" width="100"/>
+
+**Kevin Wojcik** : Kevin Wojcik is a Vice President within the Production Management & Resiliency team within Cyber and Technology Controls (CTC) for JP Morgan Chase.  He has over twenty-five years of experience in technology Architecture, Engineering and Operations.  Kevin joined JPMC in 2016 as an infrastructure technology subject matter expert concentrating on resiliency architectures.  He continues to expand his expertise of cloud platforms and cyber security as he helps reshape the firmwide resiliency initiatives for the future.
+
+Previously, Kevin managed end-user services for S&P Global, where he had responsibility for the engineering and operations of all internal end-user technologies globally.  Kevin has his CISA and CCSP certifications, holds an undergraduate and graduate degree in Information Systems from Drexel University and is now attending a Cyber program at the University of Delaware.
+
+**Affiliation** : JP Morgan Chase 
+
 **More to come**
 
 # Judging criteria :
