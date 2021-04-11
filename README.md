@@ -1,7 +1,7 @@
 ## Please check back later for updates 
 
-# Hackathon 2021 by Graduate Student Government (GSG) at
-## University of Delaware
+# GSG Hackathon on Misinformation and Cybersecurity 
+## at University of Delaware
 
 ## Check out our [Website](https://sites.udel.edu/gsg/gsg-hackathon/) for this event ! 
 
