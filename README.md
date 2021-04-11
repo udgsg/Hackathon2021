@@ -220,6 +220,16 @@ Ryan loves to solve and explore outside of work as well. He spends most of his f
 
 *
 
+<img src="https://i0.wp.com/www.ece.udel.edu/wp-content/uploads/2018/11/Brockmeier_A.png?w=400&ssl=1" align="left" width="100"/>
+
+**Austin J. Brockmeier** : Austin is an assistant professor in the Department of Electrical and Computer Engineering (ECE) and the Department of Computer and Information Sciences (CIS) within the College of Engineering at the University of Delaware (UD), and a resident faculty in UD's Data Science Institute. His research interests include data science, machine learning, signal processing, and the underlying mathematics and design of statistical models, optimizations, and algorithms. He has experience with complex data from the domains of biomedical engineering, neuroscience, and natural language processing. 
+
+**Affiliation** : University Of Delaware
+
+<br />
+
+*
+
 <img src="https://tiffanyebarber.com/wp-content/uploads/2020/11/Tiffany-P1030507-min-768x522.jpg" align="left" width="100"/>
 
 **Tiffany E. Barber** : Tiffany E. Barber, an Assistant Professor of Africana Studies and Art History at UD, is a scholar, curator, and critic of twentieth and twenty-first century visual art, new media, and performance. Her work, which spans abstraction, Afrofuturism, dance, fashion, feminism, and ethics of representation and aesthetic criticism, focuses on artists of Black diaspora working in the United States and the broader Atlantic world. She has completed fellowships at ArtTable, the Delaware Art Museum, and the University of Virginia’s Carter G. Woodson Institute for African-American and African Studies. She will be a Postdoctoral Fellow at the Getty Research Institute in 2021-2022.  
@@ -263,7 +273,13 @@ Through A.I. Whoo, he has developed computer vision models to assess park and tr
 
 **Affiliation** : A.I. Whoo
 
-**More to come**
+*
+
+<img src="images/images/Joel.jpg" align="left" width="100"/>
+
+**Joel Bricker** : Joel is an UD alumni and a Staff Engineer at Simon data.  Previously in the financial space for 10 years most recently working with voice data doing Automated Speech Recognition and text search. 
+
+**Affiliation** : Simon data
 
 # Judging criteria :
  
