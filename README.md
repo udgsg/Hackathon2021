@@ -281,6 +281,8 @@ Through A.I. Whoo, he has developed computer vision models to assess park and tr
 
 <br />
 
+<br />
+
 **Affiliation** : Simon data
 
 # Judging criteria :
@@ -307,13 +309,6 @@ Through A.I. Whoo, he has developed computer vision models to assess park and tr
 
 * 
 <img src="https://cpb-us-w2.wpmucdn.com/sites.udel.edu/dist/6/557/files/2014/03/Header-13354s4.jpg" align="center" width="400"/>
-
-<br />
-
-<br />
-
-
-<br />
 
 <br />
 
