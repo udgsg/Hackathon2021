@@ -172,6 +172,18 @@ Dixit Bhatta (Communications Committee)
 
 *
 
+<img src="images/matt-aiwhoo.jpg" align="left" width="100"/>
+
+**Matthew Saponaro** : Dr. Matthew Saponaro is the founder and CEO of A.I. Whoo, a data-driven, Artificial Intelligence company aimed to improve population-level health outcomes through artificially intelligent solutions. Dr. Saponaro’s research aims to improve machine learning techniques to assess and improve physical activity. 
+
+Through A.I. Whoo, he has developed computer vision models to assess park and trail usage (PARKVision), combat COVID-19 evaluating mask adherence and social distancing (COVIDVision), and enable medical professionals to use clinical-grade gait assessment technologies virtually through mobile devices (GAITVision).
+
+**Affiliation** : A.I. Whoo
+
+<br />
+
+*
+
 <img src="images/CompassRed/Eugene.png" align="left" width="100"/>
 
 **Eugene Olkhov** : Eugene is a member of the Data Science team at CompassRed, and loves manipulating and modeling data. Tapping into his eclectic experience from psychology and business, Eugene enjoys thinking about the "why?", and how can he make a difference in our clients' practices.
@@ -240,6 +252,16 @@ Ryan loves to solve and explore outside of work as well. He spends most of his f
 Previously, Kevin managed end-user services for S&P Global, where he had responsibility for the engineering and operations of all internal end-user technologies globally.  Kevin has his CISA and CCSP certifications, holds an undergraduate and graduate degree in Information Systems from Drexel University and is now attending a Cyber program at the University of Delaware.
 
 **Affiliation** : JPMorgan Chase 
+
+*
+
+<img src="images/matt-aiwhoo.jpg" align="left" width="100"/>
+
+**Matthew Saponaro** : Dr. Matthew Saponaro is the founder and CEO of A.I. Whoo, a data-driven, Artificial Intelligence company aimed to improve population-level health outcomes through artificially intelligent solutions. Dr. Saponaro’s research aims to improve machine learning techniques to assess and improve physical activity. 
+
+Through A.I. Whoo, he has developed computer vision models to assess park and trail usage (PARKVision), combat COVID-19 evaluating mask adherence and social distancing (COVIDVision), and enable medical professionals to use clinical-grade gait assessment technologies virtually through mobile devices (GAITVision).
+
+**Affiliation** : A.I. Whoo
 
 **More to come**
 
