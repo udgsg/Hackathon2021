@@ -279,6 +279,8 @@ Through A.I. Whoo, he has developed computer vision models to assess park and tr
 
 **Joel Bricker** : Joel is an UD alumni and a Staff Engineer at Simon data.  Previously in the financial space for 10 years most recently working with voice data doing Automated Speech Recognition and text search. 
 
+<br />
+
 **Affiliation** : Simon data
 
 # Judging criteria :
