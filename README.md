@@ -52,8 +52,6 @@ Each team must have 1-4 members with atleast one graduate student.
 
 * Cash Prize (1st position : $500, 2nd position : $300, 3rd position : $200), 
 
-* Gift kits for winning teams from JPMorgan Chase.
- 
 * Certificates for all, 
 
 * Networking opportunities with students, faculties, industrial representatives (AiWhoo, CompassRed, JPMorgan Chase)
