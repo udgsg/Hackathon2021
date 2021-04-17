@@ -10,5 +10,9 @@ To achieve this goal we will build a simple model using machine learning algorit
 https://www.researchgate.net/publication/346036811_COVID_Fake_News_Data
 
 ## AUTHOR: 
-Dominick Sinopoli and Prosper Kosi Anyidoho
+
+Dominick Sinopoli (domsinop@udel.edu) 
+
+Prosper Kosi Anyidoho (panyidoh@udel.edu)
+
 
