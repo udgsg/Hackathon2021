@@ -1,5 +1,4 @@
-# TITLE
-COVID19 Fake News
+# TITLE : COVID19 Fake News
 
 ## PROBLEM STATEMENT: 
 Misinformation has been on the rise since the beginning of the pandemic with regards to severity of COVID19, transmission of COVID19, and effeteness of COVID19 protocols. Our goal is to identifying fake COVID19 news articles from real COVID19 articles for the purpose to help stop the spread of misinformation. 
