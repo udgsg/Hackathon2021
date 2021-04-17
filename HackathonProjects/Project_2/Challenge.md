@@ -7,12 +7,15 @@ One of the basic elements of Cybersecurity is a strong password. A strong passwo
 ## DELIVERABLE: 
 Build an app to check if a given password is strong ? If not recommend a strong password with minimum number of steps.  
 If not, return the minimum number of steps required to make password strong. You could use some of the hints below : 
-### 1 : Insert one character to password,
+ 1 : Insert one character to password,
 
-### 2 : Delete one character from password, or
-### 3 : Replace one character of password with another character. 
-### 4 : Is your code generalized and efficient and is able to detect any strong password ? Explain why and include all extreme cases ? Indicate the limitations if any. 
-### 5 : Is there anything you would recommend to make the password stronger and also to improve on the limitations ? 
+ 2 : Delete one character from password, or
+
+ 3 : Replace one character of password with another character. 
+
+ 4 : Is your code generalized and efficient and is able to detect any strong password ? Explain why and include all extreme cases ? Indicate the limitations if any. 
+
+ 5 : Is there anything you would recommend to make the password stronger and also to improve on the limitations ? 
 
 ## AUTHOR : 
 Proposed by organizers. 
