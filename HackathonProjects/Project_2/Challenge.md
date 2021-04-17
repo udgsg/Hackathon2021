@@ -7,6 +7,7 @@ One of the basic elements of Cybersecurity is a strong password. A strong passwo
 ## DELIVERABLE: 
 Build an app to check if a given password is strong ? If not recommend a strong password with minimum number of steps.  
 If not, return the minimum number of steps required to make password strong. You could use some of the hints below : 
+
  1 : Insert one character to password,
 
  2 : Delete one character from password, or
