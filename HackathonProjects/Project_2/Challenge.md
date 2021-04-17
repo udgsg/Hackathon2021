@@ -1,5 +1,4 @@
-# TITLE
-Is your password strong enough ? 
+# TITLE : Is your password strong enough ? 
 
 ## PROBLEM STATEMENT: 
 One of the basic elements of Cybersecurity is a strong password. A strong password is said to be consisting of digits, alphabets, and special symbols. You can create an app that checks the strength of the password and tells if it is safe to use or not. If the password is not safe, the app could return recommendations for strong passwords based on input. 
