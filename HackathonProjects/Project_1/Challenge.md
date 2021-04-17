@@ -1,5 +1,3 @@
-### Submit your project by filling out the sections below and email directly at pmondal@udel.edu (Have fun being creative).
-
 # TITLE
 COVID19 Fake News
 
