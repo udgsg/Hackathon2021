@@ -1,3 +1,5 @@
+## Prize money has increased !! Hurry up, register today.
+
 ## Please check back later for updates 
 
 # GSG Hackathon on Misinformation and Cybersecurity 
@@ -50,7 +52,7 @@ Each team must have 1-4 members with atleast one graduate student.
 
 ## Motivation:
 
-* Cash Prize (1st position : $500, 2nd position : $300, 3rd position : $200), 
+* Cash Prize (1st position : $1000, 2nd position : $600, 3rd position : $400), 
 
 * Certificates for all, 
 
