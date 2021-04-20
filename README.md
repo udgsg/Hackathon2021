@@ -204,7 +204,15 @@ Ryan loves to solve and explore outside of work as well. He spends most of his f
 
 **Affiliation** : CompassRed
 
-**More to come**
+<br />
+
+*
+
+<img src="images/JMC/Lisa.jpg" align="left" width="100"/>
+
+**Lisa Earley** : Lisa Earley is a Campus Recruiter for the JPMorgan Chase Software Engineer Summer & Full Time Programs, located in Wilmington, DE.  She's been in Campus Recruiting at the firm for 1.5 years, and overall has 4+ years experience in various Human Resources functions. Lisa graduated from The University of Delaware in 2016 with a Bachelor’s Degree in Communications.  
+
+**Affiliation** : JPMorgan Chase 
 
 # Judges :
 
