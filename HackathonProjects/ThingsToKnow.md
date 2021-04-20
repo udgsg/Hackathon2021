@@ -4,13 +4,13 @@
 # Quick guide to all projects : 
 # -----------------------------
 
-Projects proposed by students : 
+### Projects proposed by students : 
 
 Project_1 : Dominick Sinopoli (domsinop@udel.edu), Prosper Kosi Anyidoho (panyidoh@udel.edu)
 
 Project_5 : Joseph Avenoso (avenoso@udel.edu) 
 
-Projects proposed by organizers : 
+### Projects proposed by organizers : 
 
 Project_2
 
