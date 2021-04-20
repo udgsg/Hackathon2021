@@ -1,5 +1,4 @@
-# TITLE
-Mask Mandates
+# TITLE : Mask Mandates
 
 ## Proposer: 
 Joseph Avenoso
@@ -11,10 +10,14 @@ Do mask mandates actually reduce prevalence rates of COVID-19, or do they have m
 Goal: Use statistics to attempt to quantify any correlation between mask mandates and prevelance rates.
 
 Step 1: Import data of reported COVID cases for two states to start: NJ and FL
+
 Step 2: Include important dates: mask mandates, phased openings, etc.
-Step 4: Search for any trends with COVID cases and population of individual counties in that state. (Do trends scale with population density?)
-Step 5: For states with removed mask mandates, did the trends change? Could any prior trends found in the previous steps help to predict any new trend in this step?
-Step 6: Expand the analysis for more states after the code works well and the analysis strategy is further refined.
+
+Step 3: Search for any trends with COVID cases and population of individual counties in that state. (Do trends scale with population density?)
+
+Step 4: For states with removed mask mandates, did the trends change? Could any prior trends found in the previous steps help to predict any new trend in this step?
+
+Step 5: Expand the analysis for more states after the code works well and the analysis strategy is further refined.
 
 ## SKILLS NEEDED: 
 Coding: Python for data science (pandas, numpy, etc.)
