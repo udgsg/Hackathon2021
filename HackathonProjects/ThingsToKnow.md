@@ -20,7 +20,7 @@ Project_4
 
 # -----------------------------------------------------------------------
 
-As a participant you will have the following options :
+### As a participant you will have the following options :
 
 1. Come up with a simple idea related to any of the tracks mentioned here and show how you plan on solving it. Note, coding is not mandatory. You can present statistical conclusions for a given problem as deliverable too.
 
