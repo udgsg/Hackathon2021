@@ -10,6 +10,8 @@ Project_1 : Dominick Sinopoli (domsinop@udel.edu), Prosper Kosi Anyidoho (panyid
 
 Project_5 : Joseph Avenoso (avenoso@udel.edu) 
 
+Project_6 : Nathaniel Merrill (nmerrill@udel.edu)
+
 ### Projects proposed by organizers : 
 
 Project_2
