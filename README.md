@@ -54,11 +54,15 @@ Each team must have 1-4 members with atleast one graduate student.
 
 * Cash Prize (1st position : $1000, 2nd position : $600, 3rd position : $400), 
 
-* Certificates for all, 
+* Certificates for all
+
+* Learn new skills and improve your CV 
 
 * Networking opportunities with students, faculties, industrial representatives (AiWhoo, CompassRed, JPMorgan Chase)
 
 * Mentorship opportunities. 
+
+* Showcase your skills and talent to our judges from industry and academia
 
 ## Tracks: 
 1. Misinformation in health : Is Covid real ? Does mask / Vaccine work for covid or not etc.
@@ -85,7 +89,7 @@ Meet the organizers and the other participants on Friday 5:00-5:30 PM. This meet
 
 ## April 24, Saturday: 10:00 - 4:00 PM : Hackathon!
 
-10:00 - 10:05 AM: Remark on **Misinformation** from GSG President Samantha E. Bingaman.
+**10:00 - 10:05 AM**: Remark on **Misinformation** from GSG President Samantha E. Bingaman.
 
 10:05 - 11:00 AM: Project descriptions and team assembly. It is important to join the event on time to hear all the project pitches and assure you can work on the project of your choice and that suits your abilities and skills. 
 
