@@ -26,7 +26,7 @@ Understanding policies of various states and any possible nuances in their manda
 
 ## DATA: 
 Covid data per U.S. state and territory: https://covidtracking.com/data/download
-Further refine by country: https://covid.cdc.gov/
+Further refine by county: https://covid.cdc.gov/
 
 ## AUTHOR: 
 Joseph Avenoso (avenoso@udel.edu)
