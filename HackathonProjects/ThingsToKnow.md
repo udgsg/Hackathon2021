@@ -12,6 +12,8 @@ Project_5 : Joseph Avenoso (avenoso@udel.edu)
 
 Project_6 : Nathaniel Merrill (nmerrill@udel.edu)
 
+Project_7 : Yulin Zhang  (ylz@udel.edu)
+
 ### Projects proposed by organizers : 
 
 Project_2
