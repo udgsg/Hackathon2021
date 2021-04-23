@@ -14,6 +14,8 @@ Project_6 : Nathaniel Merrill (nmerrill@udel.edu)
 
 Project_7 : Yulin Zhang  (ylz@udel.edu)
 
+Project_8 : A M Ishtiaque Mahbub (mahbub@udel.edu), Md Mozaharul Mottalib (mmmdip@udel.edu), Syed Ali Asif (asifrabi@udel.edu)
+
 ### Projects proposed by organizers : 
 
 Project_2
