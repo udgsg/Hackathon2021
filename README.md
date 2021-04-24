@@ -225,6 +225,16 @@ She's been in Campus Recruiting at the firm for 1.5 years, and overall has 4+ ye
 
 *
 
+<img src="images/PETROVIC.JPG" align="left" width="100"/>
+
+**Marko Petrovic** : Marko Petrovic got his Ph.D. in Belgium at the university of Antwerp working in quantum transport in graphene. He joined the University Of Delaware, math department in 2017 and worked with Branislav and Peter on Spintronics in department of Physics and Astronomy. He is currently a post-doc fellow at Georgetown College.
+
+**Affiliation** : Georgetown College
+
+<br />
+
+*
+
 <img src="images/Abhin.jpg" align="left" width="100"/>
 
 **Abhin Suresh** : Abhin Suresh is a graduate student in the department of
