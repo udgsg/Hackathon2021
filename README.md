@@ -220,6 +220,21 @@ She's been in Campus Recruiting at the firm for 1.5 years, and overall has 4+ ye
 
 **Affiliation** : JPMorgan Chase 
 
+
+# "How to use GIT" workshop will be run by :
+
+*
+
+<img src="images/Abhin.jpg" align="left" width="100"/>
+
+**Abhin Suresh** : Abhin Suresh is a graduate student in the department of
+physics and astronomy of University of Delaware. He is working in
+quantum transport theory group of Prof. Branislav K. Nikolic.
+
+**Affiliation** : University Of Delaware
+
+<br />
+
 # Judges :
 
 *
