@@ -101,7 +101,7 @@ Meet the organizers and the other participants on Friday 5:00-5:30 PM. This meet
 
 **1:30 - 2:00 PM**: Presentation by Companies (Data scientists from CompassRed and more) followed by a Q&A.
 
-**1:30 - 4:00 PM**: Work in groups.
+**2:10 - 4:00 PM**: Work in groups.
 
 **4:00** : End of Day 1 and announcement of Day 2
 
