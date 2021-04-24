@@ -18,6 +18,8 @@ Project_8 : A M Ishtiaque Mahbub (mahbub@udel.edu), Md Mozaharul Mottalib (mmmdi
 
 Project_9 : Arshiya Khan (arshiyak@udel.edu)
 
+Project_10 : Ming Lian (lianming@udel.edu)
+
 ### Projects proposed by organizers : 
 
 Project_2
