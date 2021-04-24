@@ -277,15 +277,6 @@ quantum transport theory group of Prof. Branislav K. Nikolic.
 
 *
 
-<img src="https://marvel-b1-cdn.bc0a.com/f00000000164722/www.udel.edu/content/udel/en/academics/colleges/grad/about-us/our-people/lou-rossi/_jcr_content/par_udel/columngenerator/par_1/staff.img.jpg/1611245277143.jpg" align="left" width="100"/>
-
-**Louis F. Rossi,** : Louis Rossi (B.S., Harvey Mudd College, 1988; M.A., University of California Berkeley, 1990; Ph.D., University of Arizona, 1993) is the inaugural dean of the Graduate College. He joined the faculty of UD's Department of Mathematical Sciences in 2001 after completing a National Science Postdoctoral Fellowship at Northwestern University and serving on the faculty of the University of Massachusetts Lowell.  His research uses analytical and numerical methods to derive and understand the partial differential equations that describe fluid vortex motion, plankton, ants, slime mold, robots and data packets.  He enjoys involving both graduate and undergraduates in his research projects.  Dean Rossi has served the University in many capacities with colleagues from across campus, has a joint appointment in the Department of Computer and Information Sciences and is a former chair of the Department of Mathematical Sciences.
-
-
-**Affiliation** : University Of Delaware
-
-*
-
 <img src="images/JMC/JMC headshot.JPG" align="left" width="100"/>
 
 **Jesus Martinez Caudillo** : Jesus is a Full-Stack software developer with 11 years of experience with web based systems. He graduated from bachelor’s degree in “Communication and Systems Engineering” from ”Universidad Autonoma del Estado de Mexico” and master of Science degree “Information and Media Technologies” from Technical University of Hamburg. His professional background comprehends many fields such as Software development, Software analysis, Application Security, DevOps and Image processing. Jesus has worked with many programing languages namely Python, Java, JavaScript (EMA script), SQL, HTML5, PHP, .NET, C++ and some their frameworks. Jesus is currently attending the JPMC-UD Cybersecurity Certification program and learning AWS architecture.
