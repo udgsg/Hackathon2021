@@ -3,6 +3,7 @@
 from argparse import ArgumentParser
 import praw
 import json
+import datetime
 
 if __name__ == '__main__':
 
@@ -30,9 +31,13 @@ if __name__ == '__main__':
         client_secret=data['SECRET'],
     )
 
-    hot_posts = reddit.subreddit('CryptoCurrency').hot(limit=10)
+    hot_posts = reddit.subreddit('CryptoCurrency').hot(limit=2000)
+    i = 0
     for post in hot_posts:
-        print(post.title)
-        print("Attrs:")
-        for attr in dir(post):
-            print(attr)
+        #print(post.title)
+        #print("Attrs:")
+        #for attr in dir(post):
+        #    print(attr)
+        print(datetime.datetime.fromtimestamp(post.created_utc))
+        i += 1
+    print("Number of posts:", i)
