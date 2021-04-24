@@ -1,23 +1,23 @@
-### Submit your project by filling out the sections below and email directly at pmondal@udel.edu (Have fun being creative).
+# TITLE: Is Zoom Fatigue Real? -- Who will be more affected by Online Courses/Works, introverts or extroverts?
 
-# TITLE
-
-## Proposer: 
+## Proposer: Yulin Zhang
 
 ## PROBLEM STATEMENT: 
-[what is the question and why it is interesting/important]
+As more and more people take online classes and work online due to covid19, many people’s mental health is also affected, and they even suffer from ZOOM FATIGUE. So are the introverts or the extroverts more affected?
+We can provide different solutions for different groups of people to make sure that students' mental health is not affected too much.
 
 ## DELIVERABLE: 
-[can be an app, a map, a website, a statistical conclusion… be clear of your goal (deliverable) and maybe write down the overall project plan because there will be little time and your team must know where they are going. Definitely keep in mind here that there are only two days to do this! Nothing too ambitious.]
+ 
+step1: Questionnaire/Survey to get data
+step2: Analyze data, it is ok that small samples, use STAT knowledge
+step3: Conclusion
+step4: Reasons
+step5: Advice
 
-## SKILLS NEEDED: 
-[web dev, coding (what language), writers, graphic designers…. Be broad so people do not feel left out if they cannot code proficiently or not know how to code but have great ideas! It is a team effort!]
+## SKILLS NEEDED: JMP, R.
 
-## DATA: 
-[data links - this we can work on together but by tuesday the data has to be identified example: 
-EPA data: https://www.epa.gov/outdoor-air-quality-data
-DNREC: https://dnrec.alpha.delaware.gov/air/quality/monitoring/ ]
+## DATA: https://myhealthycommunity.dhss.delaware.gov/locations/state
+maybe get some small data to double check the results.
 
-## AUTHOR: 
-[the person pitching the idea (likely will be the person who will pitch the idea at the event)]
+## AUTHOR: Yulin Zhang (ylz@udel.edu)
 
