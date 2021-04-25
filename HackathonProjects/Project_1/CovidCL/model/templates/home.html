@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home</title>
+	<link rel="stylesheet" type="text/css" href="../static/style.css">
+	<!--<link rel="stylesheet" href="../style.css">-->
+</head>
+<body style="background-image: url('static/fak3.jpg');">
+
+	<header>
+		<div class="container">
+		<div id="brandname">
+			KNOW THE FACTS! STOP SPREADING FAKE NEWS!
+		</div>
+	</div>
+	</header>
+
+	<div class="ml-container">
+
+		<form align="center" action="{{ url_for('Confirm')}}" method="POST">
+		<!-- <input type="text" name="comment"/> -->
+		<p></p>
+		<textarea name="message" rows="4" cols="80"></textarea>
+		<br/>
+		<input type="submit" class="btn-info" value="Confirm">
+		
+	</form>
+		
+	</div>
+	<div class="results">
+	
+	{% if prediction == True %}
+	<h1 style="color:red; text-align: center ">Not Fake</h1>
+	{% elif prediction == False %}
+	<h1 style="color:red; text-align: center ">Fake</h1>
+	{% endif %}
+
+	</div>
+
+
+	
+	
+
+</body>
+</html>

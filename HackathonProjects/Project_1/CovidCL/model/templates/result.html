@@ -1,0 +1,35 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body style="background-image: url('static/fake2.jpg');">
+
+	<header>
+		<div class="container">
+		<div id="brandname">
+			KNOW THE FACTS! STOP SPREADING FAKE NEWS!
+		</div>
+		
+	</div>
+	</header>
+	<div class="results">
+		
+	{% if prediction == True %}
+	<h1 style="color:green; text-align: center ">This is NOT FAKE!!</h1>
+	<p> <h1 style="color:black; text-align: center ">Please refer to <a href="https://www.cdc.gov/">CDC</a>  for facts about COVID-19</h1></p>
+
+	{% elif prediction == False %}
+	<h1 style="color:red; text-align: center ">This is FAKE!!</h1>
+
+
+    <p> <h1 style="color:black; text-align: center ">Please refer to <a href="https://www.cdc.gov/">CDC</a>  for facts about COVID-19</h1></p>
+
+	{% endif %}
+
+	</div>
+
+</body>
+</html>
