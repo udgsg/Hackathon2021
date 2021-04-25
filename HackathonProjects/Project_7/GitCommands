@@ -1,0 +1,10 @@
+  cd Project_7/
+  vim Challenge.md 
+  git pull origin main 
+  git status
+  git add Challenge.md 
+  git status
+  git commit -m "Removed space"
+  git push -u origin main 
+  history 
+  history >out
