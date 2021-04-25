@@ -28,4 +28,4 @@ DATA: https://myhealthycommunity.dhss.delaware.gov/locations/state
 maybe get some small data to double check the results.
 
 ## AUTHOR: 
-Yulin Zhang  (ylz@udel.edu)
+Yulin Zhang (ylz@udel.edu)
