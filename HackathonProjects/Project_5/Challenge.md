@@ -3,6 +3,12 @@
 ## Proposer: 
 Joseph Avenoso
 
+## Group Members:
+- Joseph Avenoso
+- Kevin Ongare Oluoch
+- Tyler Mootz
+- Jerome Troy
+
 ## PROBLEM STATEMENT: 
 Do mask mandates actually reduce prevalence rates of COVID-19, or do they have minimal effects on transmission ability?
 
